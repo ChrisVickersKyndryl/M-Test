@@ -5,7 +5,7 @@
   # These will only run on linux
   tasks:
     - name: Hello World!
-      shell: echo "Hi! The playbook ran!”
+      shell: echo "Hi! The playbook ran!"
 
     - name: Hello World 2!
-      shell: echo "Hi! The playbook ran again!”
+      shell: echo "Hi! The playbook ran again!"
